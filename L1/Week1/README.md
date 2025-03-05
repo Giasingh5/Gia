@@ -1,64 +1,38 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+Gia Singh  
+Gias@smu.edu 
+Level 1
 
 ## 1. Background in Quantitative Finance
 
-*In this section, describe your current background in quantitative finance. This could include:*
-- *Relevant coursework or degrees*
-- *Previous internships or jobs*
-- *Personal projects or research*
-- *Trading experience (if any)*
-- *What sparked your interest in quant finance*
-
-*Delete these instructions and write 100-150 words*
+I've built a strong mathematical foundation through Statistics 1 & 2 and AP Calculus AB, applying these concepts to finance and data analysis. As a Financial Analyst Intern at Stonehaven Capital Management, I pitched stocks to C-suite executives, analyzed Goldman Sachs' 10-K reports, and helped manage a $26K investment fund. At Tech Mahindra, I developed Power BI dashboards for six telecom sectors, collaborating on financial solutions. At Jetson App, I worked on financial strategy, nonprofit market analysis, and investor pitches. My trading experience is self-driven, using Robinhood and TradingView for technical analysis. While quantitative finance wasn’t my initial focus, Traders@SMU exposed me to its impact. Though math hasn’t always come naturally to me, I’m eager for the challenge. 
 
 ## 2. Career Goals
 
-*In this section, outline your short and long-term career goals. Be specific about:*
-- *What roles or positions interest you*
-- *Which companies or types of firms you'd like to work for*
-- *Specific areas of finance you want to specialize in*
-- *What you hope to achieve in 1, 5, and 10 years*
+I am genuinely passionate about finance and want to understand portfolio management. While I know that portfolio managers are responsible for constructing and managing investment portfolios to achieve specific financial goals, I am still learning about the intricacies of that. My career goal is to start as an investment banker at a top firm like JPMorgan Chase (JPMC), Lazard, or Centerview Partners, where I can build a strong foundation in financial analysis, M&A. From there, I aspire to exit into the hedge fund industry, ideally at firms like Citadel HF or Point72, where I can apply my skills to more quant and complex investment strategies. I am actively working towards securing an investment banking offer in New York City in the upcoming recruitment cycle
 
-*Delete these instructions and write 100-150 words*
 
 ## 3. What I Hope to Learn from This Program
 
-*In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
+Through the Alpha Program, I hope to build technical skills like programming (Python/R) for quantitative finance, including implementing models such as Black-Scholes for options pricing and GARCH for volatility forecasting. I aim to deepen my understanding of financial concepts like portfolio optimization, risk management, and algorithmic trading strategies. I also want hands-on experience with tools like Bloomberg Terminal, Excel, and algorithmic trading platforms. Networking with professionals and peers is another key goal. This program fits my learning path by equipping me with practical, quant-focused skills and industry insights, helping me transition from investment banking to hedge funds and achieve my long-term career goals.
 
-*Delete these instructions and write 100-150 words*
 
 ## 4. Current Technical Skills
 
-*In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
-- *Programming languages (Python, R, etc.)*
-- *Data analysis tools*
-- *Statistical analysis*
-- *Financial modeling*
-- *Machine learning*
-- *Version control (Git)*
-- *Other relevant skills*
+Programming languages (Python, R, etc.): Beginner – I have basic knowledge of Python and R but limited practical experience in applying them to finance or quantitative tasks.
+Data analysis tools: Beginner – I am familiar with Excel for basic data analysis but have minimal exposure to advanced tools like Pandas, NumPy, or SQL.
+Statistical analysis: Intermediate – I understand foundational statistical concepts but lack experience applying them to real-world financial data or complex models.
+Financial modeling: Intermediate – I have a basic understanding of financial modeling concepts but limited hands-on experience building models in Excel or other platforms.
+Machine learning: Beginner – I have introductory knowledge of ML concepts but no practical experience implementing algorithms.
+Version control (Git): Beginner – I am aware of Git’s purpose but have not used it extensively for collaborative projects.
+Other relevant skills: Beginner – I am eager to learn tools like Bloomberg Terminal, algorithmic trading platforms, and advanced quantitative techniques (e.g., Black-Scholes, GARCH).
 
-*Delete these instructions and write 75-100 words*
 
 ## 5. Development Plan & Program Goals
 
-*In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
+Through the Alpha Program, I aim to develop technical skills like Python/R for quantitative finance, including Black-Scholes and GARCH models, and learn tools like Bloomberg Terminal and Excel for financial modeling. I’ll measure progress through completed projects, coding challenges, and real-world applications. I plan to dedicate 15 hours weekly, supplementing program materials with online courses, books, and coding platforms. Success means gaining practical skills, building a project portfolio, and preparing for roles in investment banking and hedge funds.
 
-*Delete these instructions and write 100-150 words*
 
 ---
 
